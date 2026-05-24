@@ -74,6 +74,8 @@ The project follows a three-layer architecture:
 - FastAPI REST API for external access
 - Prediction engine using trained model
 
+--- 
+
 ## Machine Learning Workflow
 
 ### 1. Data Preprocessing
@@ -121,7 +123,6 @@ During development, several challenges were encountered:
 
 ---
 
----
 
 ## Future Improvements
 
